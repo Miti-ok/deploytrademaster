@@ -1,0 +1,9 @@
+{
+  "US-DE": { "discount_percent": 0 },
+  "IN-US": { "discount_percent": 1 },
+  "CN-US": { "discount_percent": 0 },
+  "DE-US": { "discount_percent": 0 },
+  "VN-US": { "discount_percent": 1 },
+  "US-CA": { "discount_percent": 2 },
+  "CA-US": { "discount_percent": 2 }
+}

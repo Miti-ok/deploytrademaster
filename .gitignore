@@ -1,0 +1,18 @@
+# Backend
+backend/.env
+backend/__pycache__/
+backend/*.pyc
+backend/globe_data.json
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+
+# General
+node_modules/
+dist/
+build/
+.env
+*.log

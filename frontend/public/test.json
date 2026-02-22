@@ -1,0 +1,20 @@
+[
+  {
+    "country": "China",
+    "role": "exporter",
+    "material": "Silicon Wafers",
+    "hs_code": "3818.00"
+  },
+  {
+    "country": "Brazil",
+    "role": "exporter",
+    "material": "Refined Petroleum",
+    "hs_code": "2710.12"
+  },
+  {
+    "country": "Israel",
+    "role": "importer",
+    "material": "Lithium-ion Batteries",
+    "hs_code": "8507.60"
+  }
+]
