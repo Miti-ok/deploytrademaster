@@ -16,3 +16,7 @@ dist/
 build/
 .env
 *.log
+# Python virtualenv / cache
+backend/.venv/
+**/__pycache__/
+*.pyc
